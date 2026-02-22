@@ -5,10 +5,10 @@ Este projeto apresenta visuais criados a partir do conjunto de dados **Financial
 ## Visuais criados
 
 ### Visual Mapa 1 - **Descrição:** Soma de *Sales* e *Unidades Vendidas* por país.
-- **Objetivo:** Identificar os países com maior volume de vendas e unidades comercializadas. 
+- **Objetivo:** Identificar os países com maior volume de vendas e unidades comercializadas.
 
-
-
+  ![Mapa Sales](https://github.com/mari19-coder/Financial-Sample-Analyst/blob/main/ima/vendasporlucropaisesegmento.png)
+  
 ### Visual Mapa 2 - **Descrição:** Soma de *Profit* (Lucro) por país.
 - **Objetivo:** Avaliar a lucratividade por região geográfica.
   
