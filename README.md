@@ -10,7 +10,7 @@ Este projeto apresenta visuais criados a partir do conjunto de dados **Financial
 
 ### Visual de Pizza - **Descrição:** Lucro por segmento. - **Objetivo:** Comparar a participação de cada segmento no lucro total. 
 
---- ## Como abrir 1. Baixe o arquivo `.pbix` deste repositório. 2. Abra no **Power BI Desktop**. 3. Explore os visuais e interaja com os filtros disponíveis. --- 
+### --- Como abrir 1. Baixe o arquivo `.pbix` deste repositório. 2. Abra no **Power BI Desktop**. 3. Explore os visuais e interaja com os filtros disponíveis. --- 
 
 ## Tecnologias utilizadas 
 - Power BI Desktop
